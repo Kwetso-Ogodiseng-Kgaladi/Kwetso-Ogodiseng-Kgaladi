@@ -29,7 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table><tr><td valign="top" width="50%">
 
   
-- 🌱 I’m currently learning node.js   
+- 🌱 I’m currently learning NextJS   
   
 
 - ❓ Ask me about anything related to HTML,CSS and Javascript and related technologies  
