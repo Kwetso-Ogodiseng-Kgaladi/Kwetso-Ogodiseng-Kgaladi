@@ -24,10 +24,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
   
 - 🌱 I’m currently learning NextJS   
   
@@ -37,8 +33,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
