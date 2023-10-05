@@ -65,7 +65,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Kwetso-Ogodiseng-Kgaladi&&style=flat-square)  
-  
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kwetso-kgaladi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kwetso-kgaladi/" height="30" width="40" /></a>
+</p>  
 
 <br/>  
 
